@@ -81,7 +81,7 @@ export default function App() {
           <Experience />
           <Education />
           <Achievements />
-          <GitHub />
+          {/* <GitHub /> */}
           <Contact />
         </main>
         <Footer />

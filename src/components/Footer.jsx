@@ -124,7 +124,7 @@ export default function Footer() {
             © 2026 Rohan Cherkar. All rights reserved. Built with React + Vite + Tailwind.
           </p>
           <p className="text-purple-lavender/30 text-xs">
-            Designed & Developed with ❤️ in Mumbai, India
+            Designed & Developed with ❤️ by Rohan Cherkar
           </p>
         </div>
       </div>

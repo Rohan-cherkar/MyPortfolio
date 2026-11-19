@@ -62,7 +62,7 @@ export default function Skills() {
         <SectionTitle>
           {'⚡ Skills'}
           {'Technical Skills'}
-          {'Technologies and tools I work with every day'}
+          {'Technologies and tools I work with ...'}
         </SectionTitle>
 
         <motion.div

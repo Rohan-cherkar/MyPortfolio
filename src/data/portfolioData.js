@@ -84,8 +84,16 @@ export const projects = [
     subtitle: "Travel Listing Platform",
     description:
       "A full-stack travel listing platform featuring Passport.js authentication, full CRUD operations, Joi validation, and Cloudinary image uploads. Users can list, browse, and manage travel destinations.",
-    tech: ["Node.js", "Express.js", "MongoDB", "EJS", "Passport.js", "Cloudinary", "Joi"],
-    liveUrl: "https://roamly-full-stack-project.onrender.com",
+    tech: [
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "EJS",
+      "Passport.js",
+      "Cloudinary",
+      "Joi",
+    ],
+    liveUrl: "https://roamly-full-stack-project.onrender.com/listings/",
     githubUrl: "https://github.com/Rohan-cherkar/PROJECT",
     // Replace with actual screenshot: public/images/roamly.png
     image: "/images/roamly.png",
@@ -97,8 +105,17 @@ export const projects = [
     subtitle: "Zerodha-style Trading Platform",
     description:
       "A MERN Stack trading platform clone with JWT authentication, holdings/positions/orders/watchlist dashboard, real-time-style charts, and a buy-order API. Built with React + Vite and Material UI.",
-    tech: ["React", "Vite", "Node.js", "Express.js", "MongoDB", "JWT", "Material UI", "Chart.js"],
-    liveUrl: "https://zerodha-clone-fullstack.vercel.app",
+    tech: [
+      "React",
+      "Vite",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "JWT",
+      "Material UI",
+      "Chart.js",
+    ],
+    liveUrl: " https://zerodha-clone-full-stack.vercel.app/",
     githubUrl: "https://github.com/Rohan-cherkar/Tradeza-Full-Stack",
     // Replace with actual screenshot: public/images/tradeza.png
     image: "/images/tradeza.png",
@@ -203,10 +220,10 @@ export const achievements = [
 ];
 
 export const languages = [
-  { name: "JavaScript", percent: 70, color: "#F7DF1E" },
-  { name: "Java", percent: 55, color: "#ED8B00" },
+  { name: "JavaScript", percent: 80, color: "#F7DF1E" },
+  { name: "Java", percent: 75, color: "#ED8B00" },
   { name: "Python", percent: 50, color: "#3776AB" },
-  { name: "C", percent: 40, color: "#A8B9CC" },
+  // { name: "C", percent: 40, color: "#A8B9CC" },
 ];
 
 export const featuredRepos = [
@@ -234,6 +251,6 @@ export const navLinks = [
   { label: "Experience", href: "#experience" },
   { label: "Education", href: "#education" },
   { label: "Achievements", href: "#achievements" },
-  { label: "GitHub", href: "#github" },
+  // { label: "GitHub", href: "#github" },
   { label: "Contact", href: "#contact" },
 ];
